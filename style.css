@@ -2,12 +2,12 @@
 background-color: #181818;
 head {
   	 background-color:#333339;
-   background-image: url(backwall.jpg);
+   background-image: url(https://unsplash.imgix.net/uploads%2F14115408840644deb16b0%2F2dc933e3?q=75&fm=jpg&auto=format&s=7f43646e4d26049c6c39890afb2e5ced);
   
 }
 body{
 	 background-color:#333339;
-   background-image: url(backwall.jpg);
+   background-image: url(https://unsplash.imgix.net/uploads%2F14115408840644deb16b0%2F2dc933e3?q=75&fm=jpg&auto=format&s=7f43646e4d26049c6c39890afb2e5ced);
 }
 body {
     padding: 0;
@@ -108,11 +108,7 @@ footer.main-footer .footer-container ul {
     padding: 0;
     margin-top: 25px;
 }
-footer.main-footer .footer-container ul li {
-    list-style: none;
-    display: inline-block;
-    position: relative;
-}
+
 footer.main-footer .footer-container {
     height: 100%;
     float: left;
