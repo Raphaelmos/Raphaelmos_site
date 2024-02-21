@@ -6,7 +6,7 @@ head {
 }
 body{
 	 background-color:#333339;
-   background-image: url(https://unsplash.imgix.net/uploads%2F14115408840644deb16b0%2F2dc933e3?q=75&fm=jpg&auto=format&s=7f43646e4d26049c6c39890afb2e5ced);
+   background-image: url(https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gifv);
 }
 body {
     padding: 0;
@@ -112,6 +112,133 @@ footer.main-footer .footer-container {
     height: 100%;
     float: left;
 	
+}
+
+html {
+  background-color: #000000;
+  background-image: url(https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gifv);
+  font-family: Trebuchet MS;
+  background-size: cover;
+  background-attachment: fixed;
+  /* This will prevent the background from scrolling */
+  scroll-behavior: smooth;
+}
+p{
+  color: #595959;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Gill Sans, sans-serif;
+}
+
+section {
+  padding-top: 10px; 
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+}
+h1 {
+  color: #22d600;
+  font-size: 33px;
+  font-weight: 400;
+  text-align: center;
+  position: relative;
+  text-align: center; /* Center-align the "Hello" h1 text */
+  margin-bottom: 20px; /* Add margin at the bottom of the "Hello" h1 text */
+  margin-left: 20px;
+}
+
+
+
+
+.projects {
+  padding: 20px;
+  text-align: center;
+   /* Update the background color to a dark shade of purple */
+  color: #a0a0a0; /* Set the text color to white for better contrast */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+.project-img {
+  display: block;
+  width: 10%;
+  height: 150px;
+  object-fit: cover; 
+}
+
+.project {
+  width: 21%; /* Adjust the width as needed */
+  margin: 15px;
+  padding: 12px; /* Reduce the padding for a more compact look */
+  background-color: #2b2b2b; /* Purple background color with transparency */
+  border-radius: 1px; /* Adjust the border radius for a softer look */
+  /* Adding a subtle shadow for depth */
+  transition: transform 0.2s ease; /* Adding a smooth transition effect */
+  position: relative;
+  gap: 5px;
+}
+
+.project::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  z-index: -1;
+  border-radius: 10px; /* Adjust the colors as needed */
+}
+
+.project:hover {
+  transform: translateY(-5px); /* Adding a slight lift on hover for interactive effect */
+}
+
+.project h3 {
+  margin-bottom: 10px; /* Adjust the margin for better spacing */
+  font-size: 18px; /* Adjust the font size of the project titles */
+  color: #a0a0a0;
+}
+
+.project p {
+  font-size: 16px; /* Adjust the font size of the project descriptions */
+  color: #a2a2a2; /* Adjusting the color of the description for better contrast */
+  font-family: 'Roboto', sans-serif; /* Apply a custom font family for the project descriptions */
+  line-height: 1.6; /* Adjust the line height for better readability */
+}
+/* Add this CSS for the project icons */
+.project a img {
+  width: 50px; /* Adjust the width of the icons as needed */
+  height: 50px; /* Adjust the height of the icons as needed */
+  display: block;
+  margin: 10px auto; /* Center the icons within the project box */
+}
+
+/* Add this CSS for the project images */
+.project img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 10px;
 }
 
 
