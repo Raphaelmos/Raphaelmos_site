@@ -241,5 +241,11 @@ h1 {
   margin-bottom: 10px;
 }
 
+  .others {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
 
 
