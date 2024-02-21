@@ -11,6 +11,7 @@ This repository is under construction and will change
 -Possible change of the palette colors ✅<br> 
 -Update it to 2024 with all the new projects made.<br> 
 -Improve the projects part for a better look ✅ <br>
--Link the projects all together to make the web projects usable directly in the portfolio without having to go link after link
+-Link the projects all together to make the web projects usable directly in the portfolio without having to go link after link <br>
+-Adapt it for all devices not only laptop
 ### Currently working on many types of landing sites 
 
