@@ -13,6 +13,6 @@ This repository is under construction and will change but it is functional
 -Improve the projects part for a better look ✅ <br>
 -Link the projects all together to make the web projects usable directly in the portfolio without having to go link after link <br>
 -Adapt it for all devices not only laptop ✅<br>
-- Will make a new one with a professional look
+-Will make a new one with a professional look
 ### Currently working on many types of landing sites 
 
