@@ -18,4 +18,5 @@ This repository is under construction and will change but it is functional
 -Will make a new one with a professional look 
 - Will make a template for multiple ones 
 ### Currently working on many types of landing sites 
+# Under construction, changing it completely.
 
