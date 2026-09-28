@@ -1,2 +1,0 @@
-Switched to a different repository with a direct link in navbar.
-French version here with a maybe option to switch with a toggle type FR/ENG
